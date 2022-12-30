@@ -81,3 +81,7 @@ body {
 	border: none;
 	max-width: 100%;
 }
+
+.flex {
+	display: flex;
+}
