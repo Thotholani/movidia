@@ -80,6 +80,3 @@ app.get("/watch", function (req, res) {
 app.listen(3000, function () {
 	console.log("Server started on port 3000");
 });
-
-// https://api.themoviedb.org/3/search/movie?api_key=56864ceb57832e860890334368f1ab3e&language=en-US&query=Pacific%20Rim&page=1&include_adult=false
-// &language=en-US&query=Pacific%20Rim&page=1&include_adult=false
